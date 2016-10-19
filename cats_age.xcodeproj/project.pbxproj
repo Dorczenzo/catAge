@@ -14,6 +14,7 @@
 		9B2C5D881DB779870056B6A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B2C5D861DB779870056B6A8 /* LaunchScreen.storyboard */; };
 		9B2C5D931DB779870056B6A8 /* cats_ageTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B2C5D921DB779870056B6A8 /* cats_ageTests.swift */; };
 		9B2C5D9E1DB779870056B6A8 /* cats_ageUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B2C5D9D1DB779870056B6A8 /* cats_ageUITests.swift */; };
+		9B2C5DAC1DB77B5D0056B6A8 /* kotek.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9B2C5DAB1DB77B5D0056B6A8 /* kotek.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9B2C5D991DB779870056B6A8 /* cats_ageUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cats_ageUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B2C5D9D1DB779870056B6A8 /* cats_ageUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cats_ageUITests.swift; sourceTree = "<group>"; };
 		9B2C5D9F1DB779870056B6A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B2C5DAB1DB77B5D0056B6A8 /* kotek.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = kotek.jpg; path = ../../../../Downloads/kotek.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				9B2C5D7D1DB779870056B6A8 /* AppDelegate.swift */,
 				9B2C5D7F1DB779870056B6A8 /* ViewController.swift */,
 				9B2C5D811DB779870056B6A8 /* Main.storyboard */,
+				9B2C5DAB1DB77B5D0056B6A8 /* kotek.jpg */,
 				9B2C5D841DB779870056B6A8 /* Assets.xcassets */,
 				9B2C5D861DB779870056B6A8 /* LaunchScreen.storyboard */,
 				9B2C5D891DB779870056B6A8 /* Info.plist */,
@@ -236,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9B2C5D881DB779870056B6A8 /* LaunchScreen.storyboard in Resources */,
+				9B2C5DAC1DB77B5D0056B6A8 /* kotek.jpg in Resources */,
 				9B2C5D851DB779870056B6A8 /* Assets.xcassets in Resources */,
 				9B2C5D831DB779870056B6A8 /* Main.storyboard in Resources */,
 			);
